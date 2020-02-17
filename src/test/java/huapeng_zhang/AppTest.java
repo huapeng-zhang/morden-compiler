@@ -1,4 +1,4 @@
-package huapeng-zhang;
+package huapeng_zhang;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
