@@ -1,6 +1,6 @@
 package huapeng_zhang.irt;
 
-public class OperateExpression {
+public class OperateExpression extends Expression {
     public enum OperationType {
         PLUS,
         MINUS,
